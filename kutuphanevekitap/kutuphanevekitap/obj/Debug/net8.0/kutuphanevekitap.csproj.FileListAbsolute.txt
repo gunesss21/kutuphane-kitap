@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/bin/Debug/net8.0/kutuphanevekitap
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/bin/Debug/net8.0/kutuphanevekitap.deps.json
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/bin/Debug/net8.0/kutuphanevekitap.runtimeconfig.json
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/bin/Debug/net8.0/kutuphanevekitap.dll
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/bin/Debug/net8.0/kutuphanevekitap.pdb
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/obj/Debug/net8.0/kutuphanevekitap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/obj/Debug/net8.0/kutuphanevekitap.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/obj/Debug/net8.0/kutuphanevekitap.AssemblyInfo.cs
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/obj/Debug/net8.0/kutuphanevekitap.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/obj/Debug/net8.0/kutuphanevekitap.dll
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/obj/Debug/net8.0/refint/kutuphanevekitap.dll
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/obj/Debug/net8.0/kutuphanevekitap.pdb
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/obj/Debug/net8.0/kutuphanevekitap.genruntimeconfig.cache
+/Users/svage/RiderProjects/kutuphanevekitap/kutuphanevekitap/obj/Debug/net8.0/ref/kutuphanevekitap.dll
